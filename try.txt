@@ -3,6 +3,6 @@ done and dusted.
 hello everyone this is akshith.
 
 a = 1;
-b = 2
+b = 20;
 
 conflicts try.
