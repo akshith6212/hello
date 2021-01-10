@@ -2,4 +2,7 @@ done and dusted.
 
 hello everyone this is akshith.
 
+a = 1;
+b = 2
+
 conflicts try.
