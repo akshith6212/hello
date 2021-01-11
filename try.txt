@@ -5,5 +5,4 @@ hello everyone this is akshith.
 a = 1;
 b = 200;
 
-conflicts try.
-
+conflicts try.;
